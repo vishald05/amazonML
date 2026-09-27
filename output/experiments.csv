@@ -1,0 +1,2 @@
+model,feature_set,tuning_entities,threshold,candidate_recall,macro_f05,macro_precision,macro_recall,micro_f05,micro_precision,micro_recall,singleton_accuracy,singleton_correct,singleton_total,tp,fp,fn,num_entities
+deterministic_fuzzy_rule_scorer,"normalized/transliterated name, token address, numeric overlap, country",100,0.8,0.4897959183673469,0.43527860620179,0.49231571606845265,0.44300000000000006,0.1372514516980468,0.11685393258426967,0.45481049562682213,0.5,3,6,156,1179,187,100
